@@ -43,7 +43,7 @@ def floor(x,y):
 
 num1 = int(input("Enter first number: "))
 num2 = int(input("Enter first number: "))
-opr=input("Enter the operator")
+opr=input("Enter the operator Whatever Want You")
 
 if opr=="+":
     print(add(num1,num2))

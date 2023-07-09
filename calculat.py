@@ -60,4 +60,4 @@ elif opr=="%":
 elif opr=="//":
     print(floor(num1,num2))
 else:
-    print("invalid input")
+    print("not a valid so please take serious on taking the  input")

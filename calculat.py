@@ -43,7 +43,7 @@ def floor(x,y):
 
 num1 = int(input("Enter first number: "))
 num2 = int(input("Enter first number: "))
-opr=input("Enter the operator")
+opr=input("Enter the operator Whatever Want You")
 
 if opr=="+":
     print(add(num1,num2))
@@ -60,4 +60,4 @@ elif opr=="%":
 elif opr=="//":
     print(floor(num1,num2))
 else:
-    print("invalid input")
+    print("not a valid so please take serious on taking the  input")
